@@ -2,6 +2,13 @@
   "name": "frida-compile",
   "version": "19.1.0",
   "description": "Compile a Frida script comprised of one or more Node.js modules",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frida-packages/frida-compile.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frida-packages/frida-compile/issues"
+  },
   "keywords": [
     "frida"
   ],
